@@ -71,7 +71,7 @@ s.close()
 ```
 
 ## Output
-<img width="1088" height="180" alt="495032936-96fd844d-3d25-4dff-8077-9f6f486ac03c" src="https://github.com/user-attachments/assets/ebc57629-47e9-4670-9441-60691dc2ea6b" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/01ee69a2-7364-4a3e-9909-1ad1fc685c99" />
 
 
 ## Result
